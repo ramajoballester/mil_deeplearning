@@ -1,2 +1,2 @@
-# mil_course
+# mil_deeplearning
 MIL Madrid Deep Learning course
