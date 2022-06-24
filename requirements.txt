@@ -11,7 +11,7 @@ jupyter-console
 jupyter-core
 jupyterlab-pygments
 jupyterlab-widgets
-kaggl
+kaggle
 matplotlib
 matplotlib-inline
 matplotlib-venn
