@@ -1,6 +1,6 @@
 albumentations
 cmake
-fastai==2.6.3
+fastai
 google
 gspread
 gspread-dataframe
