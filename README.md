@@ -2,6 +2,8 @@
 
 Curso Deep Learning - Madrid Innovation Lab 2022
 
+[Registro](https://docs.google.com/spreadsheets/d/1rDJQgihE4bvVNGmPjT8sH5mCRrbOfNcEFf8KZoxZ870/edit?usp=sharing)
+
 ## Índice
 
 - **Sesión 0**. Introducción a Python, PyTorch y repaso de álgebra lineal
