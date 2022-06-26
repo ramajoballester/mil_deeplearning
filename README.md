@@ -14,6 +14,8 @@ No se requiere instalación previa, todos las sesiones son compatibles con Googl
 
 ## Instalación en local
 
+Para asegurar compatibilidad plena con Google Colab se recomienda instalar python 3.7 y pytorch 1.11
+
 ```
 conda install python=3.7.13
 ```
