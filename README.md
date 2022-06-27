@@ -2,7 +2,7 @@
 
 Curso Deep Learning - Madrid Innovation Lab 2022
 
-[Registro](https://docs.google.com/spreadsheets/d/1rDJQgihE4bvVNGmPjT8sH5mCRrbOfNcEFf8KZoxZ870/edit?usp=sharing)
+[Resultados](https://docs.google.com/spreadsheets/d/1rDJQgihE4bvVNGmPjT8sH5mCRrbOfNcEFf8KZoxZ870/edit#gid=785300696)
 
 ## Índice
 
