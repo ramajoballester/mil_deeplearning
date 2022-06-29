@@ -13,6 +13,8 @@ https://playground.tensorflow.org/
 - **Sesión 0**. Introducción a Python, PyTorch y repaso de álgebra lineal
 - **Sesión 1**. Introducción al Deep Learning
 - **Sesión 2**: Redes Neuronales Convolucionales
+- **Sesión 3**: Redes Neuronales Recurrentes
+- **Sesión 4**: Aplicaciones y casos de uso
 
 ## Instalación en la nube
 
