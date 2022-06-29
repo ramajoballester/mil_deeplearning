@@ -8,6 +8,7 @@ Curso Deep Learning - Madrid Innovation Lab 2022
 
 - **Sesión 0**. Introducción a Python, PyTorch y repaso de álgebra lineal
 - **Sesión 1**. Introducción al Deep Learning
+- **Sesión 2**: Redes Neuronales Convolucionales
 
 ## Instalación en la nube
 
