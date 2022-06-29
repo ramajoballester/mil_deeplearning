@@ -4,6 +4,10 @@ Curso Deep Learning - Madrid Innovation Lab 2022
 
 [Resultados](https://docs.google.com/spreadsheets/d/1rDJQgihE4bvVNGmPjT8sH5mCRrbOfNcEFf8KZoxZ870/edit#gid=785300696)
 
+[TF Playground](https://playground.tensorflow.org/)
+
+https://playground.tensorflow.org/
+
 ## Índice
 
 - **Sesión 0**. Introducción a Python, PyTorch y repaso de álgebra lineal
