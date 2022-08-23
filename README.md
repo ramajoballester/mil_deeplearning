@@ -32,7 +32,7 @@ https://pytorch.org/get-started/locally/
 pip install -r requirements.txt
 ```
 
-## References
+## Enlaces
 
 - Ayuntamiento de Madrid. Madrid Innovation Lab website: https://milmadrid.es/event/summer-camp-emprendimiento-digital-con-inteligencia-artificial/
 LinkedIn:
@@ -40,3 +40,7 @@ LinkedIn:
 - SimSkills: https://www.linkedin.com/posts/simskills_ia-emprendedores-aprendiendoamil-activity-6955945636349267968-aWSC?utm_source=share&utm_medium=member_desktop
 - Taiger: https://www.linkedin.com/posts/taiger_workshop-deep-learning-for-nlp-in-taigers-ugcPost-6949664994170957825-O0Xz?utm_source=share&utm_medium=member_desktop
 - Álvaro Ramajo: https://www.linkedin.com/posts/alvaro-ramajo-ballester_finalmente-%C3%BAltimo-d%C3%ADa-del-curso-de-deep-activity-6948266857049038848-lVch?utm_source=share&utm_medium=member_desktop
+
+## Referencias
+
+[1] Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2021). Dive into deep learning. **arXiv preprint arXiv:2106.11342.**
