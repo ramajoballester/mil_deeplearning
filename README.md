@@ -41,6 +41,6 @@ LinkedIn:
 
 ## Referencias
 
-Algunas de las imágenes han sido tomadas del libro [1]:
+Algunas de las imágenes empleadas en los cuadernos han sido tomadas del libro [1]:
 
 [1] Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2021). Dive into deep learning. *arXiv preprint arXiv:2106.11342.*
