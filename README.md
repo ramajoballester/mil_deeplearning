@@ -2,8 +2,6 @@
 
 Curso Deep Learning - Madrid Innovation Lab 2022
 
-[Resultados](https://docs.google.com/spreadsheets/d/1rDJQgihE4bvVNGmPjT8sH5mCRrbOfNcEFf8KZoxZ870/edit#gid=785300696)
-
 ## Índice
 
 - **Sesión 0**. Introducción a Python, PyTorch y repaso de álgebra lineal
@@ -42,5 +40,7 @@ LinkedIn:
 - Álvaro Ramajo: https://www.linkedin.com/posts/alvaro-ramajo-ballester_finalmente-%C3%BAltimo-d%C3%ADa-del-curso-de-deep-activity-6948266857049038848-lVch?utm_source=share&utm_medium=member_desktop
 
 ## Referencias
+
+Algunas de las imágenes han sido tomadas del libro [1]:
 
 [1] Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2021). Dive into deep learning. *arXiv preprint arXiv:2106.11342.*
