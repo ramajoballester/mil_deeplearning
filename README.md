@@ -43,4 +43,4 @@ LinkedIn:
 
 ## Referencias
 
-[1] Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2021). Dive into deep learning. **arXiv preprint arXiv:2106.11342.**
+[1] Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2021). Dive into deep learning. *arXiv preprint arXiv:2106.11342.*
